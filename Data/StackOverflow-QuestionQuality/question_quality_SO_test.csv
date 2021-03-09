@@ -1,4 +1,4 @@
-,Unnamed: 0,Data,Target
+,Unnamed: 0,text,label
 10000,11210,"<p>The static inner class can guard against momory leak?</p>
 ",LQ_CLOSE
 10001,17024,"<p>I have a txt file, each line has a single integer. I need to make a class that singles out each one, so I can then put them in an array in a different class.</p>
