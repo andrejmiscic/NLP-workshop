@@ -4,7 +4,7 @@ This are the materials for the second iteration of the [DS-ULFRI](https://datasc
 *Authors:* Andrej Miščič, Luka Vranješ
 
 ### Agenda:
-- **theoretical introduction** (~45 min) (slides will be uploaded shortly)
+- **theoretical introduction** (~45 min) ([slides](https://github.com/andrejmiscic/NLP-workshop/blob/master/Modern_NLP_through_large_pretrained_language_models.pdf))
     - motivation for Transformers
     - Transformer architecture
     - language representation with GPT and BERT
