@@ -11,9 +11,10 @@
 
 #### Text classification / Sentiment analysis:
 - **Coronavirus sentiment** - a collection of tweets regarding Covid-19 with labeled polarity (extremely neg., neg., neutral, pos., ext. pos.). The entire dataset can be found [here](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification).
-- **News Headlines Sarcasm** - news headlines that are labeled as sarcasm or not. Available [here](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection).
-- **Stack Overflow Questions** - cleaned collection of questions from stack overflow with annotated quality. The entire dataset can be found [here](https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-quality-rate).
+- **News Category** - given a news headline, try to predict the category it belongs to (Travel, Politics, Sports, etc.). Obtained and cleaned from [here](https://www.kaggle.com/rmisra/news-category-dataset).
+- **Amazon Food Reviews** - a collection of reviews and ratings (1-5), try to predict the rating given the text. Obtained [here](https://www.kaggle.com/snap/amazon-fine-food-reviews).
 
 #### Text generation:
 - **Tweet generation** - two prepared datasets, tweets of Elon Musk, and Donald Trump's tweets. Sources: [here](https://www.kaggle.com/vidyapb/elon-musk-tweets-2015-to-2020) and [here](https://www.kaggle.com/austinreese/trump-tweets?select=trumptweets.csv).
 - **Poem generation** - a collections of poems from this [source](https://www.kaggle.com/ultrajack/modern-renaissance-poetry).
+- **WSB-post-titles** - a collection of WallStreetBets post titles from this [source](https://www.kaggle.com/gpreda/reddit-wallstreetsbets-posts).
